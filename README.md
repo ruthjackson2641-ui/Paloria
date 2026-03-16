@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="470" height="118" alt="Paloria" src="https://github.com/user-attachments/assets/5eb03db5-bd08-40b2-b2ca-797b8abf17d0" />
+  ![image](https://github.com/user-attachments/assets/80060139-ba8b-4243-a417-fa9ad1577bc7)
+
 </p>
 
 <h1 align="center">Paloria</h1>
